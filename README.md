@@ -8,9 +8,6 @@ The NAND gate, short for "NOT-AND," is a fundamental logic gate in digital elect
 
 The truth table for a NAND gate with two inputs is as follows:
 
-Input_A	  Input_B	  Output
-0	           0	       1
-0	           1	       1 
-1	           0	       1
-1	           1	       0
+![Screenshot (1900)](https://github.com/user-attachments/assets/7384ee2e-8f81-475f-b6de-c26f12df81f8)
+
 
